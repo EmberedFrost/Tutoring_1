@@ -1,0 +1,81 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    4  ~ % xcode-select --install
+    5  xcode-select --install
+    6  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    7  (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/terrencetrimuel/.bash_profile && eval "$(/usr/local/bin/brew shellenv)"
+    8  brew update
+    9  ls  -al ~/.ssh
+   10  id_rsa
+   11  ssh-keygen -t rsa -b 4096 -C "terrenceetrimuel@gmail.com"
+   12  eval "$(ssh-agent-s)"
+   13  eval "$(ssh-agent -s)"
+   14  ssh-add ~/.ssh/id_rsa
+   15  pbcopy < ~/.ssh/id_rsa.pub
+   16  ssh -T git@github.com
+   17  $brew install git
+   18  $git --version
+   19  $ brew install git
+   20  $brew install git
+   21  brew $ brew install git
+   22  $ brew install git
+   23  $ brew install git
+   24  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   25  run hombrew help
+   26  $ brew isntall git
+   27  brew --version
+   28  brew install git
+   29  git
+   30  cd .ssh
+   31  ls
+   32  cat id_rsa.pub
+   33  cd Desktop
+   34  cd ..
+   35  cd Desktop
+   36  git clone git@git.bootcampcontent.com:University-of-Miami/MIA-VIRT-FIN-PT-08-2023-U-LOLC.git
+   37  git clone git@git.bootcampcontent.com:University-of-Miami/MIA-VIRT-FIN-PT-08-2023-U-LOLC.git
+   38  cd
+   39  git clone<Class 3 Activity1>
+   40  cd
+   41  git clone <Class 3 Activity 1>
+   42  cd
+   43  clone repo
+   44  cd Class 1 Activity 3
+   45  mdkir test <GitHub Folder>
+   46  mkdir open.
+   47  mkdir <GitHub folder>
+   48  run git
+   49  git
+   50  clone
+   51  git clone
+   52  cd..
+   53  git status
+   54  %
+   55  python
+   56  conda init bash
+   57  cd desktop
+   58  mkdir Tutoring1
+   59  cd Tutoring1/
+   60  git init
+   61  git clone git@github.com:EmberedFrost/Tutoring_1.git
+   62  ls
+   63  cd Tutoring_1/
+   64  ls
+   65  touch Friday_Mad.py
+   66  touch Friday_2.pdf
+   67  ls
+   68  git status
+   69  git add .
+   70  git status
+   71  git commit -m "adding files"
+   72  git push
+   73  code .
+   74  code .
+   75  git status
+   76  git add .
+   77  git status
+   78  git commit -m "added python code"
+   79  git push
+   80  history
+   81  history >> file.txt
